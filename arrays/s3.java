@@ -17,7 +17,7 @@ public class s3 {
         arr[i] = num;
       }
       System.out.println("Please enter the number you want to search: ");
-      int s = sc.nextInt();
+      // int s = sc.nextInt();
       for (int j = 0; j < 10; j++) {
         // if (s == arr[j]) {
         //   System.out.print("This number exists in the array.");

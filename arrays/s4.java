@@ -14,7 +14,7 @@ public class s4 {
         num[i] = sc.nextInt();
       }
       System.out.println("Enter the number you want to search: ");
-      int s = sc.nextInt();
+      // sint s = sc.nextInt();
     }
   }
 }
