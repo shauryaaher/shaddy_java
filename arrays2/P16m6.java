@@ -1,4 +1,4 @@
-package school;
+package arrays2;
 
 public class P16m6 {
 

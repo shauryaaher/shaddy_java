@@ -1,4 +1,4 @@
-package school;
+package arrays2;
 
 import java.util.Scanner;
 
