@@ -1,7 +1,7 @@
 package prac;
 
 import java.util.Scanner;
-
+// javaIO package can also be used.
 public class SumProdTwoDigit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
